@@ -12,4 +12,4 @@
 
 **Связь:**
 
-<a href="https://t.me/lastangelcry"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram" /></a>
+<a href="https://t.me/lastangelcry"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram" /></a> <a href="https://discord.com/users/991764438828990608"><img src="https://img.shields.io/badge/Discord-lastangelcry-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="discord" /></a>
